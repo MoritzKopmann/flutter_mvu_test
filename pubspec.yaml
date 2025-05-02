@@ -1,6 +1,6 @@
 name: flutter_mvu_test
-description: Test utilities for flutter_mvu—e.g., a TestModelController with synchronous dispatch.
-version: 1.0.0
+description: Test utilities for flutter_mvu
+version: 1.0.1
 homepage: https://github.com/MoritzKopmann/flutter_mvu_test
 repository: https://github.com/MoritzKopmann/flutter_mvu_test
 documentation: https://pub.dev/documentation/flutter_mvu_test/latest/

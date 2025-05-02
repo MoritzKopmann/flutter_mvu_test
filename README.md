@@ -1,6 +1,7 @@
 # flutter_mvu_test 🧪
 
-Official test utilities for **flutter_mvu**. Simplify your unit and widget testing with `TestModelController`, which lets you dispatch events synchronously and assert on state and out-events.
+
+Official test utilities for **flutter_mvu** [![flutter_mvu pub version](https://img.shields.io/pub/v/flutter_mvu.svg)](https://pub.dev/packages/flutter_mvu). Simplify your unit and widget testing with `TestModelController`, which lets you dispatch events synchronously and assert on state and out-events.
 
 ---
 
