@@ -13,7 +13,7 @@ Add **flutter_mvu_test** to your `dev_dependencies` in the parent package's `pub
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_mvu_test: ^0.1.0
+  flutter_mvu_test: ^1.0.1
 ```
 
 Then fetch packages:
